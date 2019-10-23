@@ -21,7 +21,6 @@
     "customurlscheme": "moodlemobile",
     "siteurl": "http://assessment.mtnstaff.com",
     "sitename": "MTN Staff Assessment App",
-    "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
